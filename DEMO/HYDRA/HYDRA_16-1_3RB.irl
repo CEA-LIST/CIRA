@@ -1,0 +1,319 @@
+RepairChain_0:
+    Bundle_0:
+        Name: 'Bundle_0_0'
+        Default: 
+            To:  'Bundle_0_0_phy'
+            Control: 
+                Mux: 'Bundle_0_0_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_1_0_phy'
+            Control: 
+                Mux: 'Bundle_1_0_mux'
+                Sel: 'm2'
+
+    Bundle_1:
+        Name: 'Bundle_2_0'
+        Default: 
+            To:  'Bundle_2_0_phy'
+            Control: 
+                Mux: 'Bundle_2_0_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_3_0_phy'
+            Control: 
+                Mux: 'Bundle_3_0_mux'
+                Sel: 'm2'
+
+    Bundle_2:
+        Name: 'Bundle_4_0'
+        Default: 
+            To:  'Bundle_4_0_phy'
+            Control: 
+                Mux: 'Bundle_4_0_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_5_0_phy'
+            Control: 
+                Mux: 'Bundle_5_0_mux'
+                Sel: 'm2'
+
+RepairChain_1:
+    Bundle_0:
+        Name: 'Bundle_0_1'
+        Default: 
+            To:  'Bundle_0_1_phy'
+            Control: 
+                Mux: 'Bundle_0_1_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_1_1_phy'
+            Control: 
+                Mux: 'Bundle_1_1_mux'
+                Sel: 'm2'
+
+    Bundle_1:
+        Name: 'Bundle_2_1'
+        Default: 
+            To:  'Bundle_2_1_phy'
+            Control: 
+                Mux: 'Bundle_2_1_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_3_1_phy'
+            Control: 
+                Mux: 'Bundle_3_1_mux'
+                Sel: 'm2'
+
+    Bundle_2:
+        Name: 'Bundle_4_1'
+        Default: 
+            To:  'Bundle_4_1_phy'
+            Control: 
+                Mux: 'Bundle_4_1_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_5_1_phy'
+            Control: 
+                Mux: 'Bundle_5_1_mux'
+                Sel: 'm2'
+
+RepairChain_2:
+    Bundle_0:
+        Name: 'Bundle_0_2'
+        Default: 
+            To:  'Bundle_0_2_phy'
+            Control: 
+                Mux: 'Bundle_0_2_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_1_2_phy'
+            Control: 
+                Mux: 'Bundle_1_2_mux'
+                Sel: 'm2'
+
+    Bundle_1:
+        Name: 'Bundle_2_2'
+        Default: 
+            To:  'Bundle_2_2_phy'
+            Control: 
+                Mux: 'Bundle_2_2_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_3_2_phy'
+            Control: 
+                Mux: 'Bundle_3_2_mux'
+                Sel: 'm2'
+
+    Bundle_2:
+        Name: 'Bundle_4_2'
+        Default: 
+            To:  'Bundle_4_2_phy'
+            Control: 
+                Mux: 'Bundle_4_2_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_5_2_phy'
+            Control: 
+                Mux: 'Bundle_5_2_mux'
+                Sel: 'm2'
+
+RepairChain_3:
+    Bundle_0:
+        Name: 'Bundle_0_3'
+        Default: 
+            To:  'Bundle_0_3_phy'
+            Control: 
+                Mux: 'Bundle_0_3_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_1_3_phy'
+            Control: 
+                Mux: 'Bundle_1_3_mux'
+                Sel: 'm2'
+
+    Bundle_1:
+        Name: 'Bundle_2_3'
+        Default: 
+            To:  'Bundle_2_3_phy'
+            Control: 
+                Mux: 'Bundle_2_3_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_3_3_phy'
+            Control: 
+                Mux: 'Bundle_3_3_mux'
+                Sel: 'm2'
+
+    Bundle_2:
+        Name: 'Bundle_4_3'
+        Default: 
+            To:  'Bundle_4_3_phy'
+            Control: 
+                Mux: 'Bundle_4_3_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_5_3_phy'
+            Control: 
+                Mux: 'Bundle_5_3_mux'
+                Sel: 'm2'
+
+RepairChain_4:
+    Bundle_0:
+        Name: 'Bundle_0_4'
+        Default: 
+            To:  'Bundle_0_4_phy'
+            Control: 
+                Mux: 'Bundle_0_4_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_1_4_phy'
+            Control: 
+                Mux: 'Bundle_1_4_mux'
+                Sel: 'm2'
+
+    Bundle_1:
+        Name: 'Bundle_2_4'
+        Default: 
+            To:  'Bundle_2_4_phy'
+            Control: 
+                Mux: 'Bundle_2_4_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_3_4_phy'
+            Control: 
+                Mux: 'Bundle_3_4_mux'
+                Sel: 'm2'
+
+    Bundle_2:
+        Name: 'Bundle_4_4'
+        Default: 
+            To:  'Bundle_4_4_phy'
+            Control: 
+                Mux: 'Bundle_4_4_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_5_4_phy'
+            Control: 
+                Mux: 'Bundle_5_4_mux'
+                Sel: 'm2'
+
+RepairChain_5:
+    Bundle_0:
+        Name: 'Bundle_0_5'
+        Default: 
+            To:  'Bundle_0_5_phy'
+            Control: 
+                Mux: 'Bundle_0_5_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_1_5_phy'
+            Control: 
+                Mux: 'Bundle_1_5_mux'
+                Sel: 'm2'
+
+    Bundle_1:
+        Name: 'Bundle_2_5'
+        Default: 
+            To:  'Bundle_2_5_phy'
+            Control: 
+                Mux: 'Bundle_2_5_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_3_5_phy'
+            Control: 
+                Mux: 'Bundle_3_5_mux'
+                Sel: 'm2'
+
+    Bundle_2:
+        Name: 'Bundle_4_5'
+        Default: 
+            To:  'Bundle_4_5_phy'
+            Control: 
+                Mux: 'Bundle_4_5_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_5_5_phy'
+            Control: 
+                Mux: 'Bundle_5_5_mux'
+                Sel: 'm2'
+
+RepairChain_6:
+    Bundle_0:
+        Name: 'Bundle_0_6'
+        Default: 
+            To:  'Bundle_0_6_phy'
+            Control: 
+                Mux: 'Bundle_0_6_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_1_6_phy'
+            Control: 
+                Mux: 'Bundle_1_6_mux'
+                Sel: 'm2'
+
+    Bundle_1:
+        Name: 'Bundle_2_6'
+        Default: 
+            To:  'Bundle_2_6_phy'
+            Control: 
+                Mux: 'Bundle_2_6_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_3_6_phy'
+            Control: 
+                Mux: 'Bundle_3_6_mux'
+                Sel: 'm2'
+
+    Bundle_2:
+        Name: 'Bundle_4_6'
+        Default: 
+            To:  'Bundle_4_6_phy'
+            Control: 
+                Mux: 'Bundle_4_6_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_5_6_phy'
+            Control: 
+                Mux: 'Bundle_5_6_mux'
+                Sel: 'm2'
+
+RepairChain_7:
+    Bundle_0:
+        Name: 'Bundle_0_7'
+        Default: 
+            To:  'Bundle_0_7_phy'
+            Control: 
+                Mux: 'Bundle_0_7_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_1_7_phy'
+            Control: 
+                Mux: 'Bundle_1_7_mux'
+                Sel: 'm2'
+
+    Bundle_1:
+        Name: 'Bundle_2_7'
+        Default: 
+            To:  'Bundle_2_7_phy'
+            Control: 
+                Mux: 'Bundle_2_7_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_3_7_phy'
+            Control: 
+                Mux: 'Bundle_3_7_mux'
+                Sel: 'm2'
+
+    Bundle_2:
+        Name: 'Bundle_4_7'
+        Default: 
+            To:  'Bundle_4_7_phy'
+            Control: 
+                Mux: 'Bundle_4_7_mux' 
+                Sel: 'm1'
+        Repair:   
+            To: 'Bundle_5_7_phy'
+            Control: 
+                Mux: 'Bundle_5_7_mux'
+                Sel: 'm2'

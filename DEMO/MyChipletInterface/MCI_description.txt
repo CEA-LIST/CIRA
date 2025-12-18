@@ -1,0 +1,12 @@
+MCI (My Chiplet Interface) is a fictive interface composed of two repair chain. Each of them is a bus of 16 bit in both direction (receive and transmit).
+There is also power and ground connections on the interface but no clock or sideband. 
+
+There is three versions of MCI.
+The first version contains only two spares, one per repair chain. 
+The repair strategy is the shift by one. 
+
+The second version has the repair chains interleaved. It was done in order to reduce the number of unrepairable short. It also support the shift by one
+
+The third version, also has the repair chains interleaved but it has two spares per repair chain and thus, support a shift left or shift right strategy. 
+
+Please refer to the section Usage/Example/Display in the readme to be able to display the bumpmap. 

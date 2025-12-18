@@ -1,0 +1,12 @@
+HYDRA (HYbrid bonDing Repair Architecture) is another fictive interface. 
+The repair strategy is at bundle scale. Please refer to the section Usage\Example\Bundle Repair Mechanism in the README.md for more detail. 
+
+This interface has two versions. 
+
+The first one, called 16-1, is composed of 16-connections bundles. 
+The second one, called 4-1, is composed of 4-connections bundles.
+
+2RB is for 2 Repair Bundle, it means there is 2 Repair Bundle per 6 bundles. 
+Hence one third of the connections are used for repair. 
+
+3RB means that 1 half of the connections are used for repair. 

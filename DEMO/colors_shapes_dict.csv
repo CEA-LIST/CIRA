@@ -1,0 +1,13 @@
+Type,Color,Shape
+DATA,#0078ff,Circle
+POWER,#4f4f4f,Circle
+GND,#9c9c9c,Circle
+CLK,#00ff4d,Circle
+SIDEBAND,#ae00ff,Circle
+SPARE,#ffffff,Triangle
+ADDR,#ff00f3,Circle
+NONE,#ffffff,Circle
+Catastrophic,#800080,Line
+Repairable,green,Line
+Unrepairable,red,Line
+Benign,#cecece,Line
