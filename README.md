@@ -4,6 +4,8 @@ CIRA (Chiplet Interface Repair Analyzer) is a tool which analyze the reparabilit
 It uses bump map (physical description of each connection) and IRL (Interconnect Repair Langage, describe the repair option of each connection) files. 
 The user can specify a fault model (open, short etc) and CIRA will ouput reparability statistics, repair solution for every possible faults, SVG representation of the interface etc. 
 
+This tool was developed by Theo Bermond during this internship at CEA-LIST from April to August 2025.
+
 ## Requirements
 
 ### Python Version 
